@@ -10,3 +10,9 @@ project for study and make map from personal resource
 * OpenCV 4.4.0
 * MFC(not yet used)
 * 
+
+
+
+## references
+* OpenCV installation and VSstudio: https://webnautes.tistory.com/1132
+* OpenCV Path: https://keneth-control.tistory.com/1
